@@ -6,3 +6,6 @@ Google ML Bootcamp Korea 학습 기록을 위한 repo입니다.
 
 ## 학습 기록 Notion
 [Notion](https://junwon2.notion.site/3b7519a31a264f03bfd0ed7df8002a53?pvs=4)
+
+## Kaggle
+[Kaggle competitions](https://www.kaggle.com/competitions)
