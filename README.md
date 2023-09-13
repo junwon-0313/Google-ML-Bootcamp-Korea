@@ -9,3 +9,7 @@ Google ML Bootcamp Korea 학습 기록을 위한 repo입니다.
 
 ## Kaggle
 [Kaggle competitions](https://www.kaggle.com/competitions)
+
+### 수료 조건
+- Featured Competition 상위 40% 이내
+- Playground 또는 50팀 이상 참가의 Community Competition 상위 20% 이내
