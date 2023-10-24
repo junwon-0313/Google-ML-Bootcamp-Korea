@@ -7,7 +7,8 @@ Google ML Bootcamp Korea 학습 기록을 위한 repo입니다.
 - 1st course: Neural Networks and Deep Learning
 - 2nd course: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 - 3rd course: Structuring Machine Learning Projects
-- 4rd course: Sequence Models
+- 4th course: Convolutional Neural Networks
+- 5th course: Sequence Models
 
 ## 학습 기록 Notion
 [Notion](https://junwon2.notion.site/3b7519a31a264f03bfd0ed7df8002a53?pvs=4)
@@ -16,7 +17,7 @@ Google ML Bootcamp Korea 학습 기록을 위한 repo입니다.
 [Kaggle competitions](https://www.kaggle.com/competitions)
 
 - [Predict Health Outcomes of Horses
-](https://www.kaggle.com/competitions/playground-series-s3e22) 참가중..
+](https://www.kaggle.com/competitions/playground-series-s3e22)
 
 ### 수료 조건
 - Featured Competition 상위 40% 이내
