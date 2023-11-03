@@ -19,6 +19,8 @@ Google ML Bootcamp Korea 학습 기록을 위한 repo입니다.
 - [Predict Health Outcomes of Horses
 ](https://www.kaggle.com/competitions/playground-series-s3e22)
 
+- [Binary Prediction of Smoker Status using Bio-Signals](https://www.kaggle.com/competitions/playground-series-s3e24)
+
 ### 수료 조건
 - Featured Competition 상위 40% 이내
 - Playground 또는 50팀 이상 참가의 Community Competition 상위 20% 이내
